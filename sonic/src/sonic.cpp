@@ -1,9 +1,6 @@
 #include "Arduino.h"
 #include "sonic.h"
 
-class sonic 
-{
-  public:
   
   
 
@@ -59,6 +56,6 @@ class sonic
 
 
 
-};
+
 
 #endif

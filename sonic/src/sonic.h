@@ -8,44 +8,13 @@ class sonic
   
 
   public:
-  int a , b ,c;
-  void cm( int input ,  int output, int serialno, int duration)     //caculating the disctance between the object in centimeters 
-  {
-      input = a;
-      output = b;    
-      serialno=c;
-      digitalWrite(input,"LOW");
-      duration=pulseIn(output,"HIGH");
-      Serial.begin(serialno);
-      
-      return duration*0.034/2;
-  }
-
-  void inches( int input ,  int output, int serialno, int duration)     //caculating the disctance between the object in inches
-  {
-      input = a;
-      output = b;    
-      serialno=c;
-      digitalWrite(input,"LOW");
-      duration=pulseIn(output,"HIGH");
-      Serial.begin(serialno);
-
+  void cm();
+  void inches();
+  void Serialmoni();
   
-      
-      return duration*0.034/2;
-  }
-
-  void Serialmoni(int Serialno)  // Displaying Serail Montior 
-  {
-
-
-
-
-
-    
-  }
 
 
 
 
 };
+#endif
