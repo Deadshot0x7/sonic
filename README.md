@@ -14,10 +14,7 @@ And has Serial Monitor to display the things  distance covered by the Echopin in
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
   
-## Installation
 
-```batch
-```
     
 ## Usage/Examples
 
