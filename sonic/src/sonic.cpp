@@ -3,7 +3,7 @@
 
   
   
-
+sonic::
   public:
   int a , b ,c;
   void cm( int input ,  int output, int serialno, )     //caculating the disctance between the object in centimeters 
@@ -58,4 +58,3 @@
 
 
 
-#endif
