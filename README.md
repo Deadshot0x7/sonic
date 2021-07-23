@@ -49,7 +49,7 @@ println(b)
 
 ## License
 [GPL](https://choosealicense.com/licenses/gpl-3.0/)
-https://img.shields.io/badge/GPL-If%20%20have%20done%20any%20contribuation%20and%20%20uplaoded%20it%20.%20please%20give%20the%20credit%20-blue
+
   
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
