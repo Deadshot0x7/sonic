@@ -44,5 +44,5 @@ println(b)
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/https://www.linkedin.com/in/sayyed-viquar-ahmed)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Deadshot0x7)
-[![license ]] [(https://img.shields.io/badge/GPL-If%20%20have%20done%20any%20contribuation%20and%20%20uplaoded%20it%20.%20please%20give%20the%20credit%20-blue)]
+[![license ]] (https://img.shields.io/badge/GPL-If%20%20have%20done%20any%20contribuation%20and%20%20uplaoded%20it%20.%20please%20give%20the%20credit%20-blue)
   
